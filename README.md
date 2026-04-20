@@ -1,2 +1,2 @@
 # Lab-8
-h
+This repository features a comprehensive implementation of the K-Nearest Neighbors (KNN) algorithm to classify a dataset characterized by anonymous features. The project focuses on the critical role of data standardization in distance-based modeling, utilizing StandardScaler to ensure predictive accuracy across varying feature scales. Through an iterative Elbow Method analysis, the model's hyperparameters were optimized to a $K$-value of 30, successfully balancing model complexity with generalizability. The final result is a robust classification pipeline that achieves an 84% accuracy rate, demonstrating proficiency in statistical data analysis, hyperparameter tuning, and professional data visualization using Python’s scientific stack.
